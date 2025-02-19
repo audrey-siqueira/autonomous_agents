@@ -1,0 +1,5 @@
+.env
+data/
+products_vectorstore/
+models/ensemble_model.pkl
+models/random_forest_model.pkl
